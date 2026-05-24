@@ -1,0 +1,6 @@
+{
+  "name": "متجر أناقة",
+  "description": "متجر إلكتروني لبيع الملابس الفاخرة مع نظام دفع آمن مشفر وتتبع مباشر للشحنات",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

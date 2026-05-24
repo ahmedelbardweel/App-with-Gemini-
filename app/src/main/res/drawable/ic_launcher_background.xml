@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Linear diagonal gradient from Deep Obsidian Dark Slate to Obsidian Warm Dark -->
+    <path
+        android:fillColor="#121216"
+        android:pathData="M 0 0 H 108 V 108 H 0 Z" />
+        
+    <!-- Accent line 1 -->
+    <path
+        android:pathData="M -20 20 L 128 128"
+        android:strokeWidth="1.5"
+        android:strokeColor="#1Affffff" />
+
+    <!-- Accent line 2 -->
+    <path
+        android:pathData="M 20 -20 L 148 88"
+        android:strokeWidth="1.5"
+        android:strokeColor="#10ffffff" />
+
+    <!-- Solid gold circular glow behind hanger logo -->
+    <path
+        android:pathData="M 54 30 C 67.2548 30, 78 40.7452, 78 54 C 78 67.2548, 67.2548 78, 54 78 C 40.7452 78, 30 67.2548, 30 54 C 30 40.7452, 40.7452 30, 54 30 Z"
+        android:fillColor="#0DFFD700" />
+</vector>
